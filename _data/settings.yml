@@ -22,10 +22,10 @@ menu__settings:
       submenu:
       - url: '/about/'
         title: '사이트 소개'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      # - url: '/contact/'
+      #   title: 'Contact'
+      # - url: '/elements/'
+      #   title: 'Elements'
 
 
 #-------------------------------
