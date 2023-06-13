@@ -99,6 +99,7 @@ footer__description: Don’t limit yourself. Many people limit themselves to wha
 
 # Social Links
 social:
+# - {icon: "youtube", link: "https://www.youtube.com/@user-xf3uf2xd4f"}
 # - {icon: "twitter", link: "https://twitter.com"}
 # - {icon: "facebook", link: "https://facebook.com"}
 # - {icon: "codepen", link: "https://codepen.io"}

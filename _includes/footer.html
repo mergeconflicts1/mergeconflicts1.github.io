@@ -6,7 +6,7 @@
 
         <div class="footer__inner{% if site.data.settings.mailchimp__settings.enable != true %} is-border-top{% endif %}">
           <div class="row">
-            <div class="col col-4 col-d-12">
+            <!-- <div class="col col-4 col-d-12">
               <div class="widget-footer widget-info">
                 <h3 class="widget-info__title">{{site.data.settings.title}}</h3>
                 <p class="widget-info__desc">{{site.data.settings.footer__description}}</p>
@@ -25,11 +25,11 @@
                 {% endif %}
 
               </div>
-            </div>
+            </div> -->
 
             <div class="col col-6 col-d-12">
               <div class="widget-footer widget-recent-posts">
-                <h3 class="widget-recent-posts__title">Recent posts</h3>
+                <h3 class="widget-recent-posts__title">최근 글</h3>
                 {% for post in site.posts limit:2 %}
                 <div class="recent-posts">
                   {% if post.image %}
