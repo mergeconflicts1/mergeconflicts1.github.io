@@ -17,7 +17,7 @@ menu__settings:
     - title: '비디오'
       url: '/videos/'
     - title: '책'
-      url: 'http://books.mergeconflicts.com'
+      url: 'https://publish.obsidian.md/tommy'
     - title: '더 보기'
       submenu:
       - url: '/about/'
