@@ -2,7 +2,7 @@
 layout: post
 title:  여러 브랜치를 동시에 사용하고 싶을 때 유용한 명령 (worktree)
 description: 이번 포스트에서는 여러 브랜치를 동시에 사용하고 싶을 때 유용한 명령인 worktree에 대해 살펴 보겠습니다.
-date:   2023-07-03 00:00:35 +0900
+date:   2023-07-01 00:00:35 +0900
 image:  '/images/GitBook/fig7-featured.jpg'
 tags:   [worktree]
 ---
