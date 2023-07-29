@@ -1,13 +1,13 @@
 ---
 layout: page
-title: MergeConflicts.com 소개
+title: mergeconflicts.com 소개
 permalink: /about/
 #image: '/images/Profile Face.jpg'
 ---
 
 안녕하세요?
 
-이 사이트의 제작자 토미입니다.
+이 사이트의 제작자 깃미남(깃에 미친 남자)입니다.
 
 세상 사람들이 Git을 보다 쉽고 편하게 사용할 수 있도록 돕기 위해 이 사이트를 만들었습니다.
 
