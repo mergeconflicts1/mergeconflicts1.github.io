@@ -5,6 +5,8 @@ permalink: /about/
 #image: '/images/Profile Face.jpg'
 ---
 
+![]({{site.baseurl}}/images/Profile Image.jpg)
+
 안녕하세요?
 
 이 사이트의 제작자 깃미남(깃에 미친 남자)입니다.
