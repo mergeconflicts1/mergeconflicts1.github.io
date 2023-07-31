@@ -3,7 +3,7 @@ layout: post
 title:  mergeconflicts.com Beta 사이트 오픈
 description: mergeconflicts.com Beta 사이트를 오픈했습니다.
 date:   2023-07-31 00:00:00 +0900
-image:  '/images/Beta Open.png'
+image:  '/images/post/Beta Open.png'
 tags:   [notice]
 ---
 
@@ -20,9 +20,9 @@ Git 커뮤니티 사이트인 mergeconflicts.com 이 Beta로 오픈했습니다.
 
 - Git 관련 포스트 및 영상
 
-- Git 질문 답변 커뮤니티 
+- Git 질문 답변 커뮤니티
 
-  
+
 
   입니다.
 
