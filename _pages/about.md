@@ -5,9 +5,7 @@ permalink: /about/
 #image: '/images/Profile Face.jpg'
 ---
 
-<p align="center">
 ![]({{site.baseurl}}/images/Profile Image.jpg){: width="50%" height="50%"}
-</p>
 
 안녕하세요?
 
