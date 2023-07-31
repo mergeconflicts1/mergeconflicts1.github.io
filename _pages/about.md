@@ -5,7 +5,7 @@ permalink: /about/
 #image: '/images/Profile Face.jpg'
 ---
 
-![]({{site.baseurl}}/images/Profile Image.jpg|400)
+![]({{site.baseurl}}/images/Profile Image.jpg | width=400)
 
 안녕하세요?
 
