@@ -5,7 +5,10 @@ permalink: /about/
 #image: '/images/Profile Face.jpg'
 ---
 
-![]({{site.baseurl}}/images/Profile Image.jpg){: width="50%" height="50%"}
+<p align="center">
+  <img src="https://mergeconflicts.com/images/Profile Image.jpg" width="50%">
+</p>
+
 
 안녕하세요?
 
