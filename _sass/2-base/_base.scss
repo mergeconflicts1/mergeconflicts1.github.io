@@ -77,25 +77,30 @@ code.highlighter-rouge {
 }
 
 blockquote {
-  position: relative;
-  margin: 32px 0;
-  padding: 24px 0 24px 56px;
+  // position: relative;
+  // margin: 32px 0;
+  // padding: 24px 0 24px 56px;
   font-family: $heading-font-family;
-  font-size: 30px;
-  line-height: 1.6;
-  font-style: normal;
+  // font-size: 30px;
+  // line-height: 1.6;
+  // font-style: normal;
   color: var(--heading-font-color);
 
-  &::before {
-    content: '\201C';
-    position: absolute;
-    top: 0.7em;
-    left: 0;
-    font-family: $base-font-family;
-    font-size: 3.5em;
-    line-height: 0;
-    color: var(--heading-font-color);
-  }
+  font-weight: 300;
+  padding: 0 0 0 1.4rem;
+  margin: 0 2rem 1rem 0;
+  border-left: 0.2em solid #000000;
+
+  // &::before {
+  //   content: '\201C';
+  //   position: absolute;
+  //   top: 0.7em;
+  //   left: 0;
+  //   font-family: $base-font-family;
+  //   font-size: 3.5em;
+  //   line-height: 0;
+  //   color: var(--heading-font-color);
+  // }
 
   p {
     margin-bottom: 0;
@@ -149,7 +154,7 @@ img,
     font-style: normal;
     font-weight: normal;
     text-align: center;
-  
+
     a {
       font-weight: 600;
       border-bottom: 1px solid transparent;
@@ -160,7 +165,7 @@ img,
         border-color: var(--link-color-hover);
       }
     }
-  
+
     @media only screen and (max-width: $mobile) {
       margin-top: 12px;
     }
