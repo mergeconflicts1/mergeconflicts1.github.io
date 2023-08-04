@@ -68,6 +68,14 @@ h6 {
   font-size: $font-size-h6;
 }
 
+code.highlighter-rouge {
+  font-size: 90%;
+  color: #000000;
+  background-color: #eaeeef;
+  padding: .1em .2em;
+  border-radius: 3px;
+}
+
 blockquote {
   position: relative;
   margin: 32px 0;
