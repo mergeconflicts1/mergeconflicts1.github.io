@@ -172,6 +172,16 @@ img,
   }
 }
 
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
 a {
   text-decoration: none;
   color: var(--link-color);
