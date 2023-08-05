@@ -3,7 +3,6 @@ layout: post
 title:  변경사항 되돌리기 (reset)
 description: 리셋은 되돌아가고 싶은 커밋을 선택했을 때, 선택된 이후의 모든 커밋 이력을 제거함으로써 이력을 되돌립니다.
 date:   2023-04-27 15:01:35 +0900
-image:  '/images/GitBook/fig7-featured.jpg'
 tags:   [undo, reset, post]
 ---
 ### 1. 설명
