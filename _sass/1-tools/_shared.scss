@@ -2,14 +2,22 @@
  * Shared declarations for certain elements.
  */
 
-h1, h2, h3, h4, h5, h6,
 ul, ol, dl,
-blockquote, p, address,
+blockquote, address,
 hr,
 table,
 fieldset, figure,
 pre {
   margin-bottom: 32px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 48px;
+  margin-bottom: 32px;
+}
+
+p {
+  margin-bottom: 16px;
 }
 
 
