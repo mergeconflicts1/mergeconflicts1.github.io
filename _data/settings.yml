@@ -2,7 +2,7 @@
 # Site Settings
 title: #MergeConflicts
 logo: 'images/logo.png' # You can add own logo. For example '/images/logo.png'.
-description: 흠 허허허  multipurpose blog theme for Jekyll
+description:
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -40,9 +40,9 @@ menu__settings:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: 토미
-  author__bio: Git을 사랑하난
-  author__avatar: /images/Profile Face.jpg
+  author__name: 깃미남
+  author__bio: 깃에 미친 남자
+  author__avatar: /images/gitminam.png
 
 
 #-------------------------------
