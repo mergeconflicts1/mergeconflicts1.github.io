@@ -1,15 +1,6 @@
 [
   
     {
-      "title"    : "Git의 저장소 구조 들여다 보기",
-      "category" : "",
-      "tags"     : "저장소",
-      "url"      : "/blog/localrepository",
-      "date"     : "01 July 2023",
-      "image"    : ""
-    } ,
-  
-    {
       "title"    : "변경사항 되돌리기 (reset)",
       "category" : "",
       "tags"     : "undo, reset, and post",
