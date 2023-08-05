@@ -56,7 +56,7 @@ blog__settings:
 #-------------------------------
 # Videos Section Settings
 videos__settings:
-  enable: true
+  enable: false
   videos__title: Latest Videos
   videos__description:
 
@@ -64,7 +64,7 @@ videos__settings:
 #-------------------------------
 # Tag Section Settings
 tag__settings:
-  enable: true
+  enable: false
   tag: travel # To display the tag section, specify your favorite tag.
 
 
@@ -76,8 +76,8 @@ author__section:
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
-  author__section__big__image: /images/100.jpg
-  author__section__small__image: /images/101.jpg
+  author__section__big__image: /images/gitminam.png
+  author__section__small__image: /images/gitminam.png
 
 
 #-------------------------------
@@ -127,7 +127,7 @@ footer__menu__settings:
 # Contact Settings
 contact:
   email: mergeconflicts1@gmail.com # Add your form_id
-  description: Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: https://mergeconflicts.com. # Add a description of your form
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
