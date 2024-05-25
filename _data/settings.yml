@@ -10,13 +10,13 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: '사이트 소개'
+    - title: 'About'
       url: '/about/'
-    - title: '블로그'
+    - title: 'Posts'
       url: '/blog/'
-    - title: '책'
+    - title: 'Book'
       url: 'https://publish.obsidian.md/tommy'
-    - title: '커뮤니티'
+    - title: 'Community'
       url: 'https://discourse.mergeconflicts.com'
     # - title: '더 보기'
     #   submenu:
